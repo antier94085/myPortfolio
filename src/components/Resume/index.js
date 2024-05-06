@@ -37,8 +37,8 @@ function Resume() {
         </Row>
 
         <Row className="resume">
-          <img src={page1} alt="Resume Page1" style={{height:1000, width:800}} />
-          <img src={page2} alt="Resume Page2" style={{height:1000, width:800}} />
+          <img src={page1} alt="Resume Page1" style={{height:1000, width:800, margin:10}} />
+          <img src={page2} alt="Resume Page2" style={{height:1000, width:800, margin:10}} />
         </Row>
         {/* <Row className="resume page1">
           <Document file={pdf} className="d-flex justify-content-center">
